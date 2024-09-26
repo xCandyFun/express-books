@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "title": "Harry Potter och den vises sten",
+    "Author": "J.k.Rolling",
+    "Year": "1995"
+  },
+  {
+    "id": "2",
+    "title": "The Fellowship of the Ring",
+    "Author": "J. R. R. Tolkien",
+    "Year": "1954"
+  },
+  {
+    "id": "3",
+    "title": "he Alchemist",
+    "Author": "Paulo Coelho",
+    "Year": "1988"
+  }
+]
